@@ -1,0 +1,35 @@
+name = "Habib Nurmagomedov"
+gads = 37
+print("My name is", name, "and my old is", gads, "37")
+
+p = int(input("1"))
+z = int(input("4"))
+print("The amount is", p + z)
+
+num = int(input("3: "))
+if num % 2 == 0:
+    print(f"2 {num} — positive")
+else:
+    print(f"1 {num} — negatived")
+    
+    number = int(input("3: "))
+    if number > 0:
+        print("1")
+    elif number < 0:
+        print("-1")
+    else:
+        print("0")
+        
+        age = int(input("37: "))
+if age >= 18:
+ print("adult")
+else:
+ print("minor")
+ 
+ number = int(input("3: "))
+if number >= 10 and number <=20:
+ print("14")
+ print("26")
+ 
+ for i in range(1, 11):
+    print(i)
