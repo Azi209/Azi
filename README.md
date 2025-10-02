@@ -1,2 +1,1 @@
-# Azi
-2.10
+GitHub is an online platform and hosting service for collaborative software development, built on the Git version control system. Programmers use GitHub to store code, track changes, collaborate on projects in real time, manage versions, and build portfolios.Choosing a GitHub license is important because the license legally determines how others can use, modify, and distribute your code.
